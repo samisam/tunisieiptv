@@ -43,11 +43,11 @@ http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15412
 http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15411
 #EXTINF:-1,FR:Canal
 http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15406
-#EXTINF:-1,FR:Canal  Cinema
+#EXTINF:-1,FR:Canal Cinema
 http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15405
-#EXTINF:-1,FR:Canal  Family
+#EXTINF:-1,FR:Canal Family
 http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15404
-#EXTINF:-1,FR:Canal  Series
+#EXTINF:-1,FR:Canal Series
 http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15403
 #EXTINF:-1,FR:Canal  Sport
 http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15402
@@ -233,7 +233,7 @@ http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15333
 http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15332
 #EXTINF:-1,FR:TMC HD
 http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15331
-#EXTINF:-1,FR:Toute l'Histoire
+#EXTINF:-1,FR:Toute Histoire
 http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15328
 #EXTINF:-1,FR:TREK
 http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15330
@@ -247,7 +247,6 @@ http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15326
 http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15325
 #EXTINF:-1,FR:W9
 http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15324
-
 #EXTINF:-1,Fr: 13eme Rue HD
 http://194.88.107.101:6204/live/ali03/ali03/8092.ts
 #EXTINF:-1,Fr: 6TER HD
@@ -280,17 +279,17 @@ http://194.88.107.101:6204/live/ali03/ali03/8076.ts
 http://194.88.107.101:6204/live/ali03/ali03/8075.ts
 #EXTINF:-1,Fr: C Star HD
 http://194.88.107.101:6204/live/ali03/ali03/8074.ts
-#EXTINF:-1,Fr: Canal    Décalé HD
+#EXTINF:-1,Fr: Canal Decale HD
 http://194.88.107.101:6204/live/ali03/ali03/8073.ts
-#EXTINF:-1,Fr: Canal    Sport HD
+#EXTINF:-1,Fr: Canal Sport HD
 http://194.88.107.101:6204/live/ali03/ali03/8072.ts
-#EXTINF:-1,Fr: Canal   Cinema HD
+#EXTINF:-1,Fr: Canal Cinema HD
 http://194.88.107.101:6204/live/ali03/ali03/8071.ts
-#EXTINF:-1,Fr: Canal   HD
+#EXTINF:-1,Fr: Canal HD
 http://194.88.107.101:6204/live/ali03/ali03/8070.ts
-#EXTINF:-1,Fr: Canal  Family HD
+#EXTINF:-1,Fr: Canal Family HD
 http://194.88.107.101:6204/live/ali03/ali03/8069.ts
-#EXTINF:-1,Fr: Canal  serie HD
+#EXTINF:-1,Fr: Canal Serie HD
 http://194.88.107.101:6204/live/ali03/ali03/8068.ts
 #EXTINF:-1,Fr: Canal J
 http://194.88.107.101:6204/live/ali03/ali03/8067.ts
@@ -300,13 +299,13 @@ http://194.88.107.101:6204/live/ali03/ali03/8066.ts
 http://194.88.107.101:6204/live/ali03/ali03/7589.ts
 #EXTINF:-1,Fr: Chérie 25 HD
 http://194.88.107.101:6204/live/ali03/ali03/8065.ts
-#EXTINF:-1,Fr: Cine   Frisson
+#EXTINF:-1,Fr: Cine Frisson
 http://194.88.107.101:6204/live/ali03/ali03/8064.ts
-#EXTINF:-1,Fr: Cine   Premier
+#EXTINF:-1,Fr: Cine Premier
 http://194.88.107.101:6204/live/ali03/ali03/8063.ts
-#EXTINF:-1,Fr: Cine  Classic HD
+#EXTINF:-1,Fr: Cine Classic HD
 http://194.88.107.101:6204/live/ali03/ali03/8062.ts
-#EXTINF:-1,Fr: Cine  emotion HD
+#EXTINF:-1,Fr: Cine Emotion HD
 http://194.88.107.101:6204/live/ali03/ali03/8061.ts
 #EXTINF:-1,Fr: Cine  Famiz HD
 http://194.88.107.101:6204/live/ali03/ali03/8060.ts
@@ -314,9 +313,9 @@ http://194.88.107.101:6204/live/ali03/ali03/8060.ts
 http://194.88.107.101:6204/live/ali03/ali03/8059.ts
 #EXTINF:-1,Fr: Cine Polar
 http://194.88.107.101:6204/live/ali03/ali03/8058.ts
-#EXTINF:-1,Fr: Comédie   HD
+#EXTINF:-1,Fr: Comédie HD
 http://194.88.107.101:6204/live/ali03/ali03/8057.ts
-#EXTINF:-1,Fr: Discovery channel HD
+#EXTINF:-1,Fr: Discovery Channel HD
 http://194.88.107.101:6204/live/ali03/ali03/8056.ts
 #EXTINF:-1,Fr: Discovery Investigation HD
 http://194.88.107.101:6204/live/ali03/ali03/8055.ts
@@ -352,7 +351,7 @@ http://194.88.107.101:6204/live/ali03/ali03/8040.ts
 http://194.88.107.101:6204/live/ali03/ali03/8039.ts
 #EXTINF:-1,Fr: Game One HD
 http://194.88.107.101:6204/live/ali03/ali03/8038.ts
-#EXTINF:-1,Fr: Golf   HD
+#EXTINF:-1,Fr: Golf HD
 http://194.88.107.101:6204/live/ali03/ali03/8037.ts
 #EXTINF:-1,Fr: Gulli
 http://194.88.107.101:6204/live/ali03/ali03/8036.ts
@@ -392,9 +391,9 @@ http://194.88.107.101:6204/live/ali03/ali03/8018.ts
 http://194.88.107.101:6204/live/ali03/ali03/8017.ts
 #EXTINF:-1,Fr: Piwi
 http://194.88.107.101:6204/live/ali03/ali03/8016.ts
-#EXTINF:-1,Fr: Planet   A&E HD
+#EXTINF:-1,Fr: Planet A&E HD
 http://194.88.107.101:6204/live/ali03/ali03/8015.ts
-#EXTINF:-1,Fr: Planete  CI HD
+#EXTINF:-1,Fr: Planete CI HD
 http://194.88.107.101:6204/live/ali03/ali03/8014.ts
 #EXTINF:-1,Fr: RMC Découverte
 http://194.88.107.101:6204/live/ali03/ali03/8013.ts
@@ -525,7 +524,7 @@ http://ipsatpro.biz:8080/live/EL70NgKdWC/I4O0YERbVo/374.ts
 http://ipsatpro.biz:8080/live/EL70NgKdWC/I4O0YERbVo/379.ts
 #EXTINF:-1,FR: Cine Comédie+HD
 http://ipsatpro.biz:8080/live/EL70NgKdWC/I4O0YERbVo/380.ts
-#EXTINF:-1,FR: SÃ©rie Club HD
+#EXTINF:-1,FR: Serie Club HD
 http://ipsatpro.biz:8080/live/EL70NgKdWC/I4O0YERbVo/331.ts
 #EXTINF:-1,FR: SCIENCES & VIE
 http://ipsatpro.biz:8080/live/EL70NgKdWC/I4O0YERbVo/354.ts
@@ -535,7 +534,7 @@ http://ipsatpro.biz:8080/live/EL70NgKdWC/I4O0YERbVo/377.ts
 http://ipsatpro.biz:8080/live/EL70NgKdWC/I4O0YERbVo/341.ts
 #EXTINF:-1,FR: OCS Choc HD
 http://ipsatpro.biz:8080/live/EL70NgKdWC/I4O0YERbVo/345.ts
-#EXTINF:-1,FR: OCS GÃ©ants HD
+#EXTINF:-1,FR: OCS Geants HD
 http://ipsatpro.biz:8080/live/EL70NgKdWC/I4O0YERbVo/337.ts
 #EXTINF:-1,FR: Voyage TV
 http://ipsatpro.biz:8080/live/EL70NgKdWC/I4O0YERbVo/304.ts
@@ -637,7 +636,7 @@ http://ipsatpro.biz:8080/live/EL70NgKdWC/I4O0YERbVo/288.ts
 http://ipsatpro.biz:8080/live/EL70NgKdWC/I4O0YERbVo/357.ts
 #EXTINF:-1,FR: Arte
 http://ipsatpro.biz:8080/live/EL70NgKdWC/I4O0YERbVo/287.ts
-#EXTINF:-1,FR: LCi
+#EXTINF:-1,FR: LCI
 http://ipsatpro.biz:8080/live/EL70NgKdWC/I4O0YERbVo/346.ts
 #EXTINF:-1,FR: Toon Name
 http://ipsatpro.biz:8080/live/EL70NgKdWC/I4O0YERbVo/375.ts
